@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/adribasterra/Education-game">
-    <img src="assets/logo.png" alt="Logo" height="100">
+    <img src="Assets/logo.png" alt="Logo" height="200">
   </a>
 
 <h3 align="center"><strong>Education Game</strong></h3>
@@ -95,6 +95,6 @@ Some programs need to be installed in order to use the software. This is how to 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[product-screenshot]: assets/product.png
+[product-screenshot]: Assets/product.png
 [unity]: https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
 [unity-url]: https://unity.com/
